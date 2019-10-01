@@ -1,0 +1,1 @@
+json.extract! vacation, :id, :user_id, :start_date, :end_date

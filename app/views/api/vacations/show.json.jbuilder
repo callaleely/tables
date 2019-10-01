@@ -1,0 +1,1 @@
+json.partial! 'api/vacations/vacation', vacation: @vacation

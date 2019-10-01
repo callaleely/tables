@@ -1,5 +1,35 @@
 {
   "name": "tables",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1",
+    "redux": "^4.0.4",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9"
+  },
+  "description": "This README would normally document whatever steps are necessary to get the application up and running.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/callaleely/tables.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/callaleely/tables/issues"
+  },
+  "homepage": "https://github.com/callaleely/tables#readme"
 }
